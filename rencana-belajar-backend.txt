@@ -1,0 +1,3 @@
+RENCANA BELAJAR BACKEND
+1. PHP Native
+2. Laravel
