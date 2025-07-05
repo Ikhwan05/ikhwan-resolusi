@@ -1,5 +1,7 @@
 RENCANA BELAJAR BACKEND
 1. PHP Native
   *Belajar dari awal sampai akhir
+    > Menampilkan Teks
+    > Array
   *Belajar Frameworknya
-2. ......
+2. Python
