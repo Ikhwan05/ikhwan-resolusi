@@ -1,0 +1,6 @@
+Ikhwan Resolusi
+1. Belajar tailwindcss
+2. Belajar Javasccrip dasar dan lanjutan
+3. Belajar React js
+4. Konsisten Ngoding
+5. Belajar backend atau pentester web
