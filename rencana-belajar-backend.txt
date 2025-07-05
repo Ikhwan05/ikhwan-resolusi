@@ -6,4 +6,7 @@ RENCANA BELAJAR BACKEND
   *Belajar Frameworknya
    > Laravel
    > CakePHP
-2. ......
+   > Menampilkan Teks
+   > Array
+  *Belajar Frameworknya
+2. Python
