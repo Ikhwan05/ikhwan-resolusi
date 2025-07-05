@@ -1,3 +1,5 @@
 RENCANA BELAJAR BACKEND
 1. PHP Native
-2. Laravel
+  *Belajar dari awal sampai akhir
+  *Belajar Frameworknya
+2. ......
