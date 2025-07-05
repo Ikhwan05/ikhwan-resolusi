@@ -4,4 +4,4 @@ RENCANA BELAJAR BACKEND
     > Menampilkan Teks
     > Array
   *Belajar Frameworknya
-2. ......
+2. Python
